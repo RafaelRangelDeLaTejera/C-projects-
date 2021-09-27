@@ -3,7 +3,7 @@
 //date: 04/18/2021
 //project name hw7
 //program description: Asteroids game edited to have added features
-// original code from FamTrinli Published on Apr 29, 2016 edited by Rafael Rangel
+// source code from FamTrinli Published on Apr 29, 2016 edited by Rafael Rangel
 // added game functionality for extra credit
     // added game sounds for explosion , bullet and game over
     // changed the fire rate of the player so it is a more interesting game, did this using the a clock object

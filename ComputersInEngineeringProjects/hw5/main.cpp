@@ -2,8 +2,8 @@
 //student Rafael Rangel
 //date: 03/29/2021
 //project name hw5
-//program description: Xonix game edited to have some features,
-// original code from FamTrinli Published on Apr 26, 2016 edited by Rafael Rangel
+//program description: Xonix game edited to have special features
+// source code from FamTrinli Published on Apr 26, 2016 edited by Rafael Rangel
 
 #include <SFML/Graphics.hpp> //add the simple and fast multimedia library
 #include <time.h> //add the time library to use as a seed for random number and for the game pace
